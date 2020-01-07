@@ -1,0 +1,10 @@
+﻿  GameRecord(noloop)(sortPrice).cpp
+C:\Users\nikmu\Desktop\Uniten Subject Sem5\Cmpd344 - Data structure and Algorithm\ExtraProject\ExtraProject\GameRecord(noloop)(sortPrice).cpp(146,32): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+C:\Users\nikmu\Desktop\Uniten Subject Sem5\Cmpd344 - Data structure and Algorithm\ExtraProject\ExtraProject\GameRecord(noloop)(sortPrice).cpp(146,32): warning C4244:         with
+C:\Users\nikmu\Desktop\Uniten Subject Sem5\Cmpd344 - Data structure and Algorithm\ExtraProject\ExtraProject\GameRecord(noloop)(sortPrice).cpp(146,32): warning C4244:         [
+C:\Users\nikmu\Desktop\Uniten Subject Sem5\Cmpd344 - Data structure and Algorithm\ExtraProject\ExtraProject\GameRecord(noloop)(sortPrice).cpp(146,32): warning C4244:             _Ty=int
+C:\Users\nikmu\Desktop\Uniten Subject Sem5\Cmpd344 - Data structure and Algorithm\ExtraProject\ExtraProject\GameRecord(noloop)(sortPrice).cpp(146,32): warning C4244:         ]
+C:\Users\nikmu\Desktop\Uniten Subject Sem5\Cmpd344 - Data structure and Algorithm\ExtraProject\ExtraProject\GameRecord(noloop)(sortPrice).cpp(52,36): warning C4101: 'DisplayID': unreferenced local variable
+C:\Users\nikmu\Desktop\Uniten Subject Sem5\Cmpd344 - Data structure and Algorithm\ExtraProject\ExtraProject\GameRecord(noloop)(sortPrice).cpp(52,79): warning C4101: 'limit': unreferenced local variable
+C:\Users\nikmu\Desktop\Uniten Subject Sem5\Cmpd344 - Data structure and Algorithm\ExtraProject\ExtraProject\GameRecord(noloop)(sortPrice).cpp(52,59): warning C4101: 'comp': unreferenced local variable
+  ExtraProject.vcxproj -> C:\Users\nikmu\Desktop\Uniten Subject Sem5\Cmpd344 - Data structure and Algorithm\ExtraProject\Debug\ExtraProject.exe
